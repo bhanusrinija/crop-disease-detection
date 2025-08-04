@@ -6,9 +6,6 @@ This repository contains a plant disease detection system built using deep learn
 
 Watch the working demo here:
 
-> 🔁 *Replace the link above with your actual working demo video (e.g., YouTube, Google Drive, etc.).*
-
-
 https://github.com/user-attachments/assets/23f08c23-5832-4a25-86f0-c707bda26f33
 
 
@@ -70,7 +67,7 @@ Copy
 Edit
 python predict.py --image sample.jpg
 📊 Results
-Accuracy: 98%+ on validation set
+Accuracy: 92%+ on validation set
 
 Precision, Recall, and F1-score also evaluated
 
@@ -84,4 +81,3 @@ This project is licensed under the MIT License. See LICENSE for more details.
 
 📬 Contact
 Created by Bhanu Srinija Pasupuleti
-If you found this helpful, don't forget to ⭐ the repo!
